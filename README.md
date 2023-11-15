@@ -4,4 +4,4 @@
 
 This is just The ultraviolet proxy built by <a href="https://github.com/titaniumnetwork-dev">Titanium network-dev</a> but rebuilt to unblock it from replit importing
 
-use this link (https://github.com/TB-NEWS/mafito/) to import into replit when creating.
+Click <a href="https://replit.com/github/TB-NEWS/mafito/"> me</a> to deploy on replit.
